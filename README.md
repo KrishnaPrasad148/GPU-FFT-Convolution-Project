@@ -1,9 +1,9 @@
 # GPU FFT Convolution Project
 
-**Overview**\
-Performs 2D image convolution on a GPU using cuFFT + CUDA.\
-- Input: `data/input.png` (grayscale)\
-- Kernel: 7×7 box blur\
+## Overview
+Performs 2D image convolution on a GPU using cuFFT + CUDA.
+- Input: `data/input.png` (grayscale)
+- Kernel: 7×7 box blur
 - Output: `output/output.png`
 
 ## Steps to Build and Run
